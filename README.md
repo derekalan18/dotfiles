@@ -1,7 +1,7 @@
 # Installation
 ```
 cd ~
-git clone https://github.com/flipsidecreations/dotfiles.git
+git clone https://github.com/derekalan18/dotfiles.git
 
 cd dotfiles
 
